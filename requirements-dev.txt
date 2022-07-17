@@ -1,0 +1,10 @@
+flake8-builtins
+flake8-commas
+flake8-comprehensions
+flake8-bugbear
+flake8-docstrings
+flake8-eradicate
+flake8_quotes
+pep8-naming
+pytest
+pytest-flake8
